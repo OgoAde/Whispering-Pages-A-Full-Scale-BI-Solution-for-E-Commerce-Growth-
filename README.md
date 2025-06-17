@@ -1,7 +1,7 @@
 # 📚 Optimizing Customer Experience & Marketing ROI with Microsoft Fabric  
 ### Whispering Pages Case Study — A Full-Scale BI Solution for E-Commerce Growth  
 
-![Header](./A_digital_illustration_features_data_analytics_wit.png)
+
 
 ---
 
